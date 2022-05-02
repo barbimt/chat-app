@@ -16,4 +16,4 @@ I used Axios for the Rest API
 [![Chat App](https://img.shields.io/badge/-CHAT%20APP-blueviolet)](https://barbimt.github.io/chat-app/) 
 | Username  | Password|
 | ------------- | ------------- |
-| barbi  | 123  |
+| user  | 123  |
